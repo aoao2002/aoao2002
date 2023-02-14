@@ -20,15 +20,12 @@ Resume page
 
 ## <i class="fas fa-award"></i> Project experience
 ### Hardware aspect
-* Familiar with single-chip microcomputer (stm32), understand the use of single-chip microcomputer (currently I have not touched 51, stm32 for a long time), be able to complete small projects independently, and be familiar with UART, I2C, SPI and other interfaces.
 * Intelligent controllable switches and light items can be remotely controlled and displayed through mobile phones. They are divided into hardware end, server end, and control display end.
 
 * Greenhouse temperature and humidity harmful gas environment monitoring project, and remote display (2.4G wireless communication)
 
 ### Software aspect
-* [Handwriting BootLoader<i class="fa fa-hand-o-left"></i>](https://aeneag.xyz/articles/2021/05/25/1621910793955.html), the easiest BootLoader to start the linux kernel
 * [The kernel 3.4.2 transplantation](https://aeneag.xyz/articles/2021/06/08/1623160617353.html)(Based on JZ2440), tailor the kernel and transplant it.
-* [Uboot（v.2016 & v.2014）transplant project<i class="fa fa-hand-o-left"></i>](https://aeneag.xyz/articles/2021/06/04/1622783443968.html), according to the chip manual, adapt to the ARM version
 * [E-book project and digital photo frame project based on JZ2440<i class="fa fa-hand-o-left"></i>](https://aeneag.xyz/articles/2021/07/14/1626262712552.html)The project from BootLoader to kernel, file system, driver, display, touch screen and so on from scratch
 * [File storage system<i class="fa fa-hand-o-left"></i>](https://aeneag.xyz/articles/2021/04/13/1618294064331.html)(Java front end separation project) (Unfamiliarity with the front end and lack of time to deal with unfinished projects)
 
