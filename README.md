@@ -9,5 +9,5 @@ Resume page https://aoao2002.github.io/
 
 <center>
 
-<a style="font-size:1.2em;  color: #845ec2; width:auto;">1575720409@qq.com</a>
+<a style="font-size:1.2em;  color: #845ec2; width:auto;">QQ: 1575720409</a>
 
