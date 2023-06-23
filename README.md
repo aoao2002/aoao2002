@@ -1,6 +1,6 @@
 # Self-introduction
 
-Resume page https://aoao2002.github.io/
+HomePage https://aoao2002.github.io/
 
 
 ## <i class="fas fa-phone-alt"></i> Contact me
